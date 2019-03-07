@@ -1,9 +1,18 @@
 
 {
- "users" : [
+ "deals" : [
   {
-   "id" : 1,
-    "name": "first"
+         "availabilityCode": "green",
+          "clickoutLink":"https://www.billiger.de/common/modules/api/cmodul?p=4HaQLbusSBle11xjPcgaGiKeXlCLyZ1KLz-KyPnCaiXvdFleKiM0Yh9EQ-SRSSJMsB2HxE6Ca1QKsOPr4ekvvksz47p5unkOR4XxkGgZfWrx06Wm_cT5JQ&mid=1095672650&mc=LlZ91pz8Oy9E&id=947431626",
+          "imageUrl":"https://cdn.billiger.com/dynimg/u8TNDOC2wjQq-6m_4lOJLMdvVXub-KumnDrU21LmKOZAF4c0q9hDHUJXxSNiI0jEE8OE76xS0urbYmTc0sHmpE97CTksGCHC0oaw7L3QKjJ/947431626.jpg",
+           "imageUrlLarge" : "",
+           "name": "Blue Yeti Nano Premium USB Mikrofon - Shadow Grey",
+           "offerId": 123,
+            "price":"119.99",
+             "shippingCosts":   "",
+            "shop":    "amazon.de",
+             "shopLogoUrl":   "https://cdn.billiger.com/shops/x/321.gif",
+             "totalPrice":   "119.99"
   } 
 ]
 }
